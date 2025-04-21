@@ -77,7 +77,7 @@
       "cert": "str?",
       "user": "str?",
       "password": "str?",
-      "base_topic": "str?"
+      "base_topic": "zigbee2mqtt_3"
     },
     "serial": {
       "port": "str?",
